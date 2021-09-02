@@ -5,7 +5,7 @@ const io = require('socket.io')(server,{cors:{origin:"*"}})
 
 
 app.get('/home',(req,res)=>{
-    res.send('dsfsdfsf')
+    res.send('dsfsdfshhhf')
 })
 
 
